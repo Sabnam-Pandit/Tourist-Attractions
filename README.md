@@ -1,2 +1,2 @@
 # p5js-Data-Visualization-project
-Tourist attractions all over the world
+Plotting tourist attractions all over the world on the map using wikimedia API
