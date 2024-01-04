@@ -1,2 +1,2 @@
-# p5js-Data-Visulaization-project
-Tourist attraction all over the world
+# p5js-Data-Visualization-project
+Tourist attractions all over the world
